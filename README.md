@@ -4,11 +4,54 @@ Tehd‰‰n heroes 3 might and magic tapainen vuoropohjainen RPG seikkailu/taistelup
 
 Teemana on bakteeri/virus rpg/seikkailu
 
-Osallistujat: Jenna Lindh, Lisa Gawriyski, Risto Ollila, Joe Niemi.
+
+
+
+<h2>Linkkej‰:</h2>
+
+Unityn perusteet tutoriaali, hyv‰ sellainen:
+http://www.youtube.com/watch?v=g5QFW12utdU&src_vid=fRED_-LvJKQ&feature=iv&annotation_id=annotation_990452499
+
+Hienoja tekstuureita, saa vissiin k‰ytt‰‰ jopa kaupallisesti, kunhan ei sano, et ite olis tehny niit
+http://www.cgtextures.com/
+
+
+
+
+
+<h2>Kurssin tavoite:</h2>
+
+- joku perus AI vastassa
+- perus taistelut eri kentiss‰ toimii
+- hahmot menett‰‰ hp:ta
+- voi lyˆd‰ hahmoilla ja liikkua ymp‰ri kentt‰‰
+- kaksinpeli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kent‰t: spektrimalja, koiran nahka jne
 
 erilaisia hahmoja: flunssa
+
 
 
 - virus, joka r‰j‰ytt‰‰ itsens‰
