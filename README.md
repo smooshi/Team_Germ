@@ -9,8 +9,6 @@ Teemana on bakteeri/virus rpg/seikkailu
 
 <h2>Linkkej‰:</h2>
 
-Unityn perusteet tutoriaali, hyv‰ sellainen:
-http://www.youtube.com/watch?v=g5QFW12utdU&src_vid=fRED_-LvJKQ&feature=iv&annotation_id=annotation_990452499
 
 Hienoja tekstuureita, saa vissiin k‰ytt‰‰ jopa kaupallisesti, kunhan ei sano, et ite olis tehny niit
 http://www.cgtextures.com/
